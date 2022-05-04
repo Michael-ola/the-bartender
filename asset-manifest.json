@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/the-bartender/static/css/main.99ec571b.css",
+    "main.js": "/the-bartender/static/js/main.cc0049a3.js",
+    "static/js/787.32d5fa73.chunk.js": "/the-bartender/static/js/787.32d5fa73.chunk.js",
+    "static/media/Untitled.mp4": "/the-bartender/static/media/Untitled.f7bcd127d2063665be7d.mp4",
+    "static/media/Untitled2.mp4": "/the-bartender/static/media/Untitled2.477a0e3033518c5ad064.mp4",
+    "static/media/Untitled3.mp4": "/the-bartender/static/media/Untitled3.0ab5f3d63974ff04dea3.mp4",
+    "static/media/image1.png": "/the-bartender/static/media/image1.e428f8d531f774936c94.png",
+    "static/media/poster1.png": "/the-bartender/static/media/poster1.a3370d3bc015a42c0ab7.png",
+    "static/media/image6.jpg": "/the-bartender/static/media/image6.cc8dbed7c9ff3d1e407a.jpg",
+    "static/media/image3.jpg": "/the-bartender/static/media/image3.e56185bd984bb56a4aad.jpg",
+    "static/media/poster2.png": "/the-bartender/static/media/poster2.4702a2d230d57dcc0388.png",
+    "static/media/image8.jpg": "/the-bartender/static/media/image8.aff4e7de0b2cfbd452d1.jpg",
+    "static/media/image9.jpg": "/the-bartender/static/media/image9.ce03665f778b3f6a7d03.jpg",
+    "static/media/image5.jpg": "/the-bartender/static/media/image5.151da27ba109d327d4d8.jpg",
+    "static/media/image7.jpg": "/the-bartender/static/media/image7.77e953ea17daa7740ca5.jpg",
+    "static/media/image4.jpg": "/the-bartender/static/media/image4.d4af08b244761f03271e.jpg",
+    "static/media/image2.jpg": "/the-bartender/static/media/image2.c038717f785a0e64a131.jpg",
+    "static/media/LogoDesign.png": "/the-bartender/static/media/LogoDesign.131d293dd79ac416545f.png",
+    "index.html": "/the-bartender/index.html",
+    "main.99ec571b.css.map": "/the-bartender/static/css/main.99ec571b.css.map",
+    "main.cc0049a3.js.map": "/the-bartender/static/js/main.cc0049a3.js.map",
+    "787.32d5fa73.chunk.js.map": "/the-bartender/static/js/787.32d5fa73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99ec571b.css",
+    "static/js/main.cc0049a3.js"
+  ]
+}
