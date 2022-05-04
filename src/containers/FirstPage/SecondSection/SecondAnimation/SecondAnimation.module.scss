@@ -1,0 +1,145 @@
+.container{
+    position: relative;
+    width: 100%;
+    height:120%;
+    transition: all 0.75s ease-in;
+    background:#121212;
+    overflow: hidden;
+}
+
+.drinkTypesContainer{
+    position: relative;
+    width: 100%;
+    height: 47%;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    opacity: 0;
+    transition: all 0.9s ease-in-out, opacity 0.2s ease;
+    z-index: 3;
+}
+
+.drinkType{
+    position: relative !important;
+    margin: 20px 2% 0 0;
+    width: 260px !important;
+    height: 330px !important;
+    transition:all 0.8s ease-in-out,border 0.1s linear;
+}
+
+@keyframes drinksContainer{
+    from{
+        transform:translateY(50vh);
+        opacity:0;
+        }
+    to{
+        transform:translateY(-27vh);
+        opacity:1;
+    }
+}
+
+.drinksContainer{
+    position: relative;
+    width: 100%;
+    height: 45%;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    opacity: 0;
+    animation: drinksContainer 0.8s ease-in-out forwards;
+}
+
+.drink{
+    position: relative !important;
+    margin: 20px 2% 0 2% !important;
+    width: 160px !important;
+    height: 240px !important;
+
+}
+
+.drinkTextContainer{
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 10%;
+    z-index: 5;
+    opacity: 0;
+    display: flex;
+    font-family: 'montserrat alternates','sans-serif';
+    font-size:13px;
+    justify-content: center;
+    align-items: flex-start;
+    transition: all 0.6s ease-in-out, opacity 0.2s ease;
+}
+
+.drinkText{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    font-weight: bold;
+    color: #fff;
+    font-size:3em;
+    text-align: center;
+}
+
+.logo{
+    margin:auto;
+    width:29%;
+    height:112px;
+    position:absolute;
+    right:0;
+    left: 0;
+    bottom: 30px;
+}
+
+@keyframes fadeUp{
+   from{
+    transform:translateY(10vh);
+    opacity:1;
+   }
+   to{
+    transform:translateY(-10vh);
+    opacity:1;
+   }
+}
+
+@keyframes fadeDown{
+    from{
+     transform:translateY(-10vh);
+     opacity:1;
+    }
+    to{
+     transform:translateY(10vh);
+     opacity:1;
+    }
+ }
+
+ @keyframes fadeUpVariant{
+    from{
+     transform:translateY(30vh);
+     opacity:1;
+    }
+    to{
+     transform:translateY(0vh);
+     opacity:1;
+    }
+ }
+
+ .fadeUpVariant {
+    animation: fadeUpVariant 0.7s ease-in-out forwards;
+}
+
+ .fadeUp {
+     animation: fadeUp 0.7s ease-in-out forwards;
+ }
+
+ .fadeDown {
+    animation: fadeDown 0.7s ease-in-out forwards;
+}
+
+.scale {
+    transform:scale(0.8) !important;
+}

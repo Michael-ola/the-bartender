@@ -1,0 +1,45 @@
+.container {
+  width: 100%;
+  height: 93%;
+  position: relative;
+  background: #121212;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.mediaContainer {
+  width: 75%;
+  height: 100%;
+  float: right;
+}
+
+.backgroundCover1 {
+  width: 50%;
+  height: 100%;
+  background: transparent linear-gradient(268deg, rgba(10, 10, 10, 0.93) 0%, #080808 60%, rgba(0, 0, 0, 0) 100%) 0% 0% no-repeat padding-box;
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.backgroundCover2 {
+  width: 60%;
+  height: 100%;
+  background: transparent linear-gradient(268deg, rgba(10, 10, 10, 0.93) 0%, #080808 42%, rgba(0, 0, 0, 0) 100%) 0% 0% no-repeat padding-box;
+  position: absolute;
+  z-index: 1;
+  right: 0;
+}
+
+.logo {
+  width: 29%;
+  height: 18%;
+  position: absolute;
+  top: 100px;
+  left: 60px;
+  z-index: 4;
+}
+/*# sourceMappingURL=FirstSection.module.css.map */

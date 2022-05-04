@@ -1,0 +1,62 @@
+.container {
+  position: relative;
+  z-index: 4;
+  height: 40px;
+  width: 146px;
+  min-width: 146px;
+  border-radius: 11px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  outline: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  background: steelblue;
+  color: #fff;
+}
+
+.couponButton {
+  color: #bdff04;
+  background: inherit;
+  border: 1px solid #bdff04;
+  margin-right: 20px;
+}
+
+.couponButton:hover {
+  color: rgba(189, 255, 4, 0.6);
+  border-color: rgba(189, 255, 4, 0.6);
+}
+
+.buyButton {
+  color: #fff;
+  background: #637d19;
+  margin-right: 60px;
+  border: none;
+}
+
+.buyButton:hover {
+  background: #95c119 !important;
+}
+
+.readMoreButton {
+  position: absolute;
+  bottom: -45%;
+  margin: auto;
+  right: 0;
+  left: 0;
+  border-radius: 30px;
+  background: #fff;
+  color: #000;
+  font-family: 'Montserrat Alternates','sans-serif';
+  font-weight: bold;
+  font-size: 0.8em;
+}
+/*# sourceMappingURL=Button.module.css.map */

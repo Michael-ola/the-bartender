@@ -1,0 +1,60 @@
+.container {
+  width: 100%;
+  height: 100%;
+  background: #090909;
+  color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
+  font-family: 'open sans';
+  font-size: 15px;
+  z-index: 3;
+}
+
+.listContainer {
+  height: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  list-style-type: none;
+  margin: 0;
+  padding-right: 240px;
+}
+
+.navItem {
+  width: 70px;
+  height: 37px;
+  text-align: center;
+  color: #707070;
+  border-radius: 11px;
+  margin: 0 1.7%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  cursor: default;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.navItem:hover {
+  color: #95c119;
+}
+/*# sourceMappingURL=Navbar.module.css.map */
