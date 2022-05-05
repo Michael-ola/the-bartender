@@ -20,6 +20,8 @@ Deployed on GitHub Pages at https://michael-ola.github.io/the-bartender
 UI/UX Design by William Praise - https://www.behance.net/gallery/140276541/The-Bartender
 
 
+
+
 follow me on twitter https://twitter.com/Engr_JavaScript
 and LinkedIn https://www.linkedin.com/in/michael-ibitoye-ola
 
