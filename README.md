@@ -5,6 +5,8 @@
 A presentational web page for drink services.
 It  presents the beauty of fine drinks. Drink responsibly, by the way.
 
+Not  a responsive design for now
+
 ## Tools used
 
 REACT.JS using create-react-app Tool chain
