@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-bartender/static/css/main.c2584c99.css",
+    "main.css": "/the-bartender/static/css/main.74f13324.css",
     "main.js": "/the-bartender/static/js/main.cc0049a3.js",
     "static/js/787.32d5fa73.chunk.js": "/the-bartender/static/js/787.32d5fa73.chunk.js",
     "static/media/Untitled.mp4": "/the-bartender/static/media/Untitled.f7bcd127d2063665be7d.mp4",
@@ -19,12 +19,12 @@
     "static/media/image2.jpg": "/the-bartender/static/media/image2.c038717f785a0e64a131.jpg",
     "static/media/LogoDesign.png": "/the-bartender/static/media/LogoDesign.131d293dd79ac416545f.png",
     "index.html": "/the-bartender/index.html",
-    "main.c2584c99.css.map": "/the-bartender/static/css/main.c2584c99.css.map",
+    "main.74f13324.css.map": "/the-bartender/static/css/main.74f13324.css.map",
     "main.cc0049a3.js.map": "/the-bartender/static/js/main.cc0049a3.js.map",
     "787.32d5fa73.chunk.js.map": "/the-bartender/static/js/787.32d5fa73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2584c99.css",
+    "static/css/main.74f13324.css",
     "static/js/main.cc0049a3.js"
   ]
 }
