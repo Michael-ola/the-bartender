@@ -1,4 +1,4 @@
-import React, { Component, Fragment} from 'react'
+import React, { Component} from 'react'
 import classes from './TextDisplay.module.css'
 
 export default class textDisplay extends Component {
