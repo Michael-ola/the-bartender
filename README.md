@@ -1,6 +1,6 @@
 # The-Bartender
 
-#Introduction
+### Introduction
 
 A presentational web page for drink services.
 It  presents the beauty of fine drinks. Drink responsibly, by the way.
