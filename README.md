@@ -5,7 +5,7 @@
 A presentational web page for drink services.
 It  presents the beauty of fine drinks. Drink responsibly, by the way.
 
-Not  a responsive design for now
+Built for desktop screen sizes 
 
 ## Tools used
 
